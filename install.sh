@@ -36,6 +36,6 @@ then
     Exec=python3 $PWD/main.py
     Name=Path Manager
     Icon=$PWD/ui/icon.png"
-    echo "$STR" >> $HOME/Desktop/Path_Manager.desktop
+    echo "$shortcut" >> $HOME/Desktop/Path_Manager.desktop
 fi
 
