@@ -1,5 +1,7 @@
 #! /bin/bash
 
+pip install PySide6
+
 printf "Write the path you want to install.\n"
 while :
 do
